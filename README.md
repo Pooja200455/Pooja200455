@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pooja P C
+# Hi, I'm Pooja P C
 
 ### 💻 Computer Science Engineer | Full Stack Developer | Python Enthusiast
 
