@@ -8,7 +8,7 @@ I enjoy building practical applications, learning new technologies, and solving 
 
 ---
 
-🚀 About Me
+About Me
 
 * B.E. in Computer Science Engineering — **CGPA: 8.26**
 * Full Stack Web Development Intern at **Prinston Smart Engineers**
@@ -92,7 +92,7 @@ I enjoy building practical applications, learning new technologies, and solving 
 
 ---
 
-## 📚 Certifications & Research
+## Certifications & Research
 
 * Python Full Stack with Generative AI — **Dhee Coding Lab** *(Currently pursuing)*
 * Database and SQL — **Infosys Springboard**
@@ -130,12 +130,8 @@ Published in **3rd International Conference DRISHTI-2025**.
 ## Connect With Me
 
  **Email:** [poojapc2004@gmail.com](mailto:poojapc2004@gmail.com)
-💼 **LinkedIn:** [linkedin.com/in/poojapc2004](https://linkedin.com/in/poojapc2004)
-🐙 **GitHub:** [github.com/Pooja200455](https://github.com/Pooja200455)
+**LinkedIn:** [linkedin.com/in/poojapc2004](https://linkedin.com/in/poojapc2004)
+**GitHub:** [github.com/Pooja200455](https://github.com/Pooja200455)
 
----
 
-### ⭐ "Learn. Build. Improve. Repeat."
-
-Thanks for visiting my profile! 😊
 
