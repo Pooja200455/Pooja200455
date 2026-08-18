@@ -1,6 +1,6 @@
 # Hi, I'm Pooja P C
 
-### 💻 Computer Science Engineer | Full Stack Developer | Python Enthusiast
+### Computer Science Engineer | Full Stack Developer | Python Enthusiast
 
 I'm a **Computer Science Engineering graduate** from **Vivekananda College of Engineering and Technology, Puttur**, with a strong interest in **Full Stack Web Development, Python, Artificial Intelligence, and Software Development**.
 
@@ -10,46 +10,46 @@ I enjoy building practical applications, learning new technologies, and solving 
 
 🚀 About Me
 
-* 🎓 B.E. in Computer Science Engineering — **CGPA: 8.26**
-* 💻 Full Stack Web Development Intern at **Prinston Smart Engineers**
-* 🐍 Currently pursuing **Python Full Stack with Generative AI** at Dhee Coding Lab
-* 🌐 Interested in **Web Development and Software Development**
-* 🤖 Interested in **AI/Deep Learning applications**
-* 📚 Published research papers in **IEEE INCOWOCO 2025** and **DRISHTI-2025**
-* 🔍 Always learning and improving my technical skills
-* 🎯 Looking for opportunities to start and grow my career in the IT industry
+* B.E. in Computer Science Engineering — **CGPA: 8.26**
+* Full Stack Web Development Intern at **Prinston Smart Engineers**
+* Currently pursuing **Python Full Stack with Generative AI** at Dhee Coding Lab
+* Interested in **Web Development and Software Development**
+* Interested in **AI/Deep Learning applications**
+* Published research papers in **IEEE INCOWOCO 2025** and **DRISHTI-2025**
+* Always learning and improving my technical skills
+* Looking for opportunities to start and grow my career in the IT industry
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 👨‍💻 Programming Languages
+### Programming Languages
 
 `Python` `Java` `C++` `C`
 
-### 🌐 Web Development
+### Web Development
 
 `HTML` `CSS` `JavaScript` `React.js`
 
-### ⚙️ Backend
+### Backend
 
 `Node.js` `Express.js`
 
-### 🗄️ Databases
+### Databases
 
 `MongoDB` `MySQL` `SQL`
 
-### 🔧 Tools & Technologies
+### Tools & Technologies
 
 `VS Code` `Eclipse IDE` `Jupyter Notebook` `Android Studio`
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 
 `TensorFlow` `Keras` `CNN` `DenseNet121` `MPCNN`
 
 ---
 
-## 💼 Internship
+## Internship
 
 ### Full Stack Web Development Intern
 
@@ -62,9 +62,9 @@ I enjoy building practical applications, learning new technologies, and solving 
 
 ---
 
-## 📌 Projects
+## Projects
 
-### 🧠 Detection of Early-Stage Gastric Carcinoma
+### Detection of Early-Stage Gastric Carcinoma
 
 **Technologies:** Python, Flask, TensorFlow/Keras
 
@@ -72,7 +72,7 @@ I enjoy building practical applications, learning new technologies, and solving 
 * Implemented CNN models including **DenseNet121 and MPCNN**.
 * Built a web interface for real-time analysis and report visualization.
 
-### 💰 Android Application for Thrifty
+### Android Application for Thrifty
 
 **Technologies:** Java, Android Studio, XML
 
@@ -81,7 +81,7 @@ I enjoy building practical applications, learning new technologies, and solving 
 * Added budget management and transaction tracking features.
 * Designed an intuitive user interface using XML layouts.
 
-### 👗 Kurti Selling Website
+### Kurti Selling Website
 
 **Technologies:** JavaScript, React.js, Node.js, Express.js, MongoDB
 
@@ -94,11 +94,11 @@ I enjoy building practical applications, learning new technologies, and solving 
 
 ## 📚 Certifications & Research
 
-* 🐍 Python Full Stack with Generative AI — **Dhee Coding Lab** *(Currently pursuing)*
-* 🗄️ Database and SQL — **Infosys Springboard**
-* 🧪 Software Testing — **NPTEL**
+* Python Full Stack with Generative AI — **Dhee Coding Lab** *(Currently pursuing)*
+* Database and SQL — **Infosys Springboard**
+* Software Testing — **NPTEL**
 
-### 📖 Research Publications
+### Research Publications
 
 **Optimised Hybrid Framework of DenseNet121 and MPCNN for Early Gastric Cancer Detection in Histopathological Imaging**
 Published in **IEEE International Conference on Women in Computing (INCOWOCO 2025)**.
@@ -108,7 +108,7 @@ Published in **3rd International Conference DRISHTI-2025**.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Pooja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pooja200455\&show_icons=true\&theme=tokyonight)
 
@@ -116,7 +116,7 @@ Published in **3rd International Conference DRISHTI-2025**.
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 * Python Full Stack Development
 * Generative AI
@@ -127,9 +127,9 @@ Published in **3rd International Conference DRISHTI-2025**.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-📧 **Email:** [poojapc2004@gmail.com](mailto:poojapc2004@gmail.com)
+ **Email:** [poojapc2004@gmail.com](mailto:poojapc2004@gmail.com)
 💼 **LinkedIn:** [linkedin.com/in/poojapc2004](https://linkedin.com/in/poojapc2004)
 🐙 **GitHub:** [github.com/Pooja200455](https://github.com/Pooja200455)
 
